@@ -1,0 +1,494 @@
+﻿[
+  {
+    "id": "1",
+    "name": "Grey Plain T-shirt",
+    "slug": "grey-plain-tshirt",
+    "description": "Sample description text",
+    "thumb_url": "./assets/handsome-bearded-young-man-looking-camera-isolated-green_155003-26452.jpg",
+    "large_thumb_url": "./assets/handsome-bearded-young-man-looking-camera-isolated-green_155003-26452.jpg",
+    "price": 4900,
+    "currency": "USD",
+    "price_formatted": "$49",
+    "from_price": 4900,
+    "to_price": "",
+    "from_price_formatted": "$49",
+    "to_price_formatted": "",
+    "category": ["menswear", "trending", "bestsellers", "tshirt"],
+    "sale": true,
+    "original_price": "$59",
+    "variants": {
+      "size": [
+        {
+          "name": "s",
+          "link": ""
+        },
+        {
+          "name": "m",
+          "link": ""
+        },
+        {
+          "name": "l",
+          "link": ""
+        },
+        {
+          "name": "xl",
+          "link": ""
+        },
+        {
+          "name": "xxl",
+          "link": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "cotton"
+        }
+      ]
+    },
+    "availability": true,
+    "images": [
+      "./assets/close-up-portrait-man-shirt-mockup_23-2149260918.jpg",
+      "./assets/close-up-portrait-man-shirt-mockup_23-2149260920.jpg",
+      "./assets/close-up-portrait-man-shirt-mockup_23-2149260915.jpg",
+      "./assets/close-up-portrait-man-shirt-mockup_23-2149260916.jpg",
+      "./assets/close-up-portrait-man-shirt-mockup_23-2149260914.jpg"
+    ],
+    "info": {
+      "material": "Cotton",
+      "care": "Machine Wash",
+      "return_policy": "Easy returns \u0026 exchange upto 15 days of delivery."
+    }
+  },
+  {
+    "id": "2",
+    "name": "Red Full Sleeve T-shirt",
+    "slug": "red-full-sleeve-tshirt",
+    "description": "Sample description text",
+    "thumb_url": "./assets/young-man-sitting-small-stool-against-white-wall_231208-1174.jpg",
+    "large_thumb_url": "./assets/young-man-sitting-small-stool-against-white-wall_231208-1174.jpg",
+    "price": 7900,
+    "currency": "USD",
+    "price_formatted": "$79",
+    "from_price": "",
+    "to_price": "",
+    "from_price_formatted": "",
+    "to_price_formatted": "",
+    "category": ["menswear", "bestsellers", "newarrival", "tshirt"],
+    "sale": false,
+    "variants": {
+      "size": [
+        {
+          "name": "s",
+          "link": ""
+        },
+        {
+          "name": "m",
+          "link": ""
+        },
+        {
+          "name": "xl",
+          "link": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "cotton"
+        }
+      ]
+    },
+    "availability": true,
+    "images": [
+      "./assets/close-up-portrait-man-shirt-mockup_23-2149260892.jpg",
+      "./assets/close-up-portrait-man-shirt-mockup_23-2149260888.jpg",
+      "./assets/close-up-portrait-man-shirt-mockup_23-2149260894.jpg"
+    ],
+    "info": {
+      "material": "Cotton",
+      "care": "Machine Wash",
+      "return_policy": "Easy returns \u0026 exchange upto 15 days of delivery."
+    },
+    "original_price": ""
+  },
+  {
+    "id": "3",
+    "name": "Black Hoddie",
+    "slug": "black-hoddie",
+    "description": "Sample description text",
+    "thumb_url": "./assets/young-person-wearing-hoodie-mockup_23-2149246201.jpg",
+    "large_thumb_url": "./assets/young-person-wearing-hoodie-mockup_23-2149246201.jpg",
+    "price": 7300,
+    "currency": "USD",
+    "price_formatted": "$73",
+    "from_price": "",
+    "to_price": "",
+    "from_price_formatted": "",
+    "to_price_formatted": "",
+    "category": ["womenswear", "trending", "bestsellers", "hoddie"],
+    "sale": false,
+    "variants": {
+      "size": [
+        {
+          "name": "s",
+          "link": ""
+        },
+        {
+          "name": "l",
+          "link": ""
+        },
+        {
+          "name": "xl",
+          "link": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "cotton"
+        }
+      ]
+    },
+    "availability": true,
+    "images": [
+      "./assets/young-person-wearing-hoodie-mockup_23-2149246201.jpg",
+      "./assets/young-person-wearing-hoodie-mockup_23-2149246196.jpg",
+      "./assets/young-person-wearing-hoodie-mockup_23-2149246212.jpg",
+      "./assets/young-person-wearing-hoodie-mockup_23-2149246215.jpg",
+      "./assets/young-person-wearing-hoodie-mockup_23-2149246214.jpg"
+    ],
+    "info": {
+      "material": "Cotton",
+      "care": "Machine Wash",
+      "return_policy": "Easy returns \u0026 exchange upto 15 days of delivery."
+    },
+    "original_price": ""
+  },
+  {
+    "id": "4",
+    "name": "Blazer Coat",
+    "slug": "blazer-coat",
+    "description": "Sample description text",
+    "thumb_url": "./assets/portrait-young-japanese-woman_23-2148870711.jpg",
+    "large_thumb_url": "./assets/portrait-young-japanese-woman_23-2148870711.jpg",
+    "price": 4900,
+    "currency": "USD",
+    "price_formatted": "$49",
+    "from_price": "",
+    "to_price": "",
+    "from_price_formatted": "",
+    "to_price_formatted": "",
+    "category": ["womenswear", "trending", "bestsellers", "coat"],
+    "sale": true,
+    "original_price": "$59",
+    "variants": {
+      "size": [
+        {
+          "name": "s",
+          "link": ""
+        },
+        {
+          "name": "xl",
+          "link": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "cotton"
+        }
+      ]
+    },
+    "availability": true,
+    "images": [
+      "./assets/beautiful-fashion-woman-posing-with-elegant-suit_1328-3296.jpg",
+      "./assets/beautiful-fashion-woman-posing-with-elegant-suit_1328-3295.jpg",
+      "./assets/beautiful-fashion-woman-posing-with-elegant-suit_1328-3282.jpg"
+    ],
+    "info": {
+      "material": "Cotton",
+      "care": "Machine Wash",
+      "return_policy": "Easy returns \u0026 exchange upto 15 days of delivery."
+    }
+  },
+  {
+    "id": "5",
+    "name": "Black Coat",
+    "slug": "black-coat",
+    "description": "Sample description text",
+    "thumb_url": "./assets/male-dancer-posing-sneakers-suit-without-shirt_23-2148417931.jpg",
+    "large_thumb_url": "./assets/male-dancer-posing-sneakers-suit-without-shirt_23-2148417931.jpg",
+    "price": 8900,
+    "currency": "USD",
+    "price_formatted": "$89",
+    "from_price": "",
+    "to_price": "",
+    "from_price_formatted": "",
+    "to_price_formatted": "",
+    "category": ["menswear", "trending", "newarrival", "coat"],
+    "sale": false,
+    "variants": {
+      "size": [
+        {
+          "name": "s",
+          "link": ""
+        },
+        {
+          "name": "m",
+          "link": ""
+        },
+        {
+          "name": "l",
+          "link": ""
+        },
+        {
+          "name": "xl",
+          "link": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "cotton"
+        }
+      ]
+    },
+    "availability": true,
+    "images": [
+      "./assets/young-handsome-businessman-black-shirt-black-suit_158595-4799.jpg",
+      "./assets/young-handsome-businessman-black-shirt-black-suit_158595-4784.jpg",
+      "./assets/young-handsome-businessman-black-shirt-black-suit_158595-4808.jpg",
+      "./assets/young-handsome-businessman-black-shirt-black-suit_158595-4782.jpg",
+      "./assets/young-handsome-businessman-black-shirt-black-suit_158595-4781.jpg"
+    ],
+    "info": {
+      "material": "Cotton",
+      "care": "Machine Wash",
+      "return_policy": "Easy returns \u0026 exchange upto 15 days of delivery."
+    },
+    "original_price": ""
+  },
+  {
+    "id": "6",
+    "name": "White Shirt",
+    "slug": "white-shirt",
+    "description": "Sample description text",
+    "thumb_url": "./assets/serious-handsome-young-man-sitting-isolated_171337-10544.jpg",
+    "large_thumb_url": "./assets/serious-handsome-young-man-sitting-isolated_171337-10544.jpg",
+    "price": 6200,
+    "currency": "USD",
+    "price_formatted": "$62",
+    "from_price": "",
+    "to_price": "",
+    "from_price_formatted": "",
+    "to_price_formatted": "",
+    "category": ["newarrival", "menswear", "shirt"],
+    "sale": true,
+    "original_price": "$72",
+    "variants": {
+      "size": [],
+      "material": []
+    },
+    "availability": false,
+    "images": [
+      "./assets/analog-portrait-handsome-man-posing-artistically-outdoors_23-2149630142.jpg",
+      "./assets/analog-portrait-handsome-man-posing-artistically-outdoors_23-2149630138.jpg",
+      "./assets/analog-portrait-handsome-man-posing-artistically-outdoors_23-2149630136.jpg",
+      "./assets/analog-portrait-handsome-man-posing-artistically-outdoors_23-2149630144.jpg"
+    ],
+    "info": {
+      "material": "Cotton",
+      "care": "Machine Wash",
+      "return_policy": "Easy returns \u0026 exchange upto 15 days of delivery."
+    }
+  },
+  {
+    "id": "7",
+    "name": "Black Jacket",
+    "slug": "black-jacket",
+    "description": "Sample description text",
+    "thumb_url": "./assets/handsome-guy_144627-5593.jpg",
+    "large_thumb_url": "./assets/handsome-guy_144627-5593.jpg",
+    "price": 11900,
+    "currency": "USD",
+    "price_formatted": "$119",
+    "from_price": "",
+    "to_price": "",
+    "from_price_formatted": "",
+    "to_price_formatted": "",
+    "category": ["newarrival", "menswear", "bestsellers", "jacket"],
+    "sale": true,
+    "original_price": "$129",
+    "variants": {
+      "size": [
+        {
+          "name": "s",
+          "link": ""
+        },
+        {
+          "name": "m",
+          "link": ""
+        },
+        {
+          "name": "xl",
+          "link": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "polyester"
+        }
+      ]
+    },
+    "availability": true,
+    "images": [
+      "./assets/portrait-young-handsome-male_23-2148884392.jpg",
+      "./assets/cyclist-man-spending-time-with-his-bike_23-2148828190.jpg",
+      "./assets/afro-american-man-his-bicycle_23-2148828194.jpg"
+    ],
+    "info": {
+      "material": "Polyester",
+      "care": "Wash With Cold Water",
+      "return_policy": "Easy returns \u0026 exchange upto 15 days of delivery."
+    }
+  },
+  {
+    "id": "8",
+    "name": "Grey Coat",
+    "slug": "grey-coat",
+    "description": "Sample description text",
+    "thumb_url": "./assets/young-woman-model-wearing-long-gray-coat_1303-21155.jpg",
+    "large_thumb_url": "./assets/young-woman-model-wearing-long-gray-coat_1303-21155.jpg",
+    "price": 9500,
+    "currency": "USD",
+    "price_formatted": "$95",
+    "from_price": "",
+    "to_price": "",
+    "from_price_formatted": "",
+    "to_price_formatted": "",
+    "category": ["newarrival", "womenswear", "trending", "coat"],
+    "sale": false,
+    "variants": {
+      "size": [
+        {
+          "name": "s",
+          "link": ""
+        },
+        {
+          "name": "m",
+          "link": ""
+        },
+        {
+          "name": "l",
+          "link": ""
+        },
+        {
+          "name": "xl",
+          "link": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "polyester"
+        }
+      ]
+    },
+    "availability": true,
+    "images": [
+      "./assets/portrait-young-japanese-woman-with-jacket_23-2148870732.jpg",
+      "./assets/portrait-young-japanese-woman-with-jacket_23-2148870737.jpg",
+      "./assets/portrait-young-japanese-woman_23-2148870716.jpg",
+      "./assets/portrait-young-japanese-woman-with-jacket_23-2148870725.jpg"
+    ],
+    "info": {
+      "material": "Polyester",
+      "care": "Wash With Cold Water",
+      "return_policy": "Easy returns \u0026 exchange upto 15 days of delivery."
+    },
+    "original_price": ""
+  },
+  {
+    "id": "9",
+    "name": "White Hoddie",
+    "slug": "white-hoddie",
+    "description": "Sample description text",
+    "thumb_url": "./assets/female-model-posing-sportswear_23-2148872400.jpg",
+    "large_thumb_url": "./assets/female-model-posing-sportswear_23-2148872400.jpg",
+    "price": 11900,
+    "currency": "USD",
+    "price_formatted": "$119",
+    "from_price": "",
+    "to_price": "",
+    "from_price_formatted": "",
+    "to_price_formatted": "",
+    "category": ["newarrival", "womenswear", "trending", "hoddie"],
+    "sale": true,
+    "original_price": "$129",
+    "variants": {
+      "size": [],
+      "material": []
+    },
+    "availability": false,
+    "images": [
+      "./assets/young-person-wearing-hoodie-mockup_23-2149246233.jpg",
+      "./assets/young-person-wearing-hoodie-mockup_23-2149246232.jpg",
+      "./assets/young-person-wearing-hoodie-mockup_23-2149246234.jpg"
+    ],
+    "info": {
+      "material": "Cotton",
+      "care": "Machine Wash",
+      "return_policy": "Easy returns \u0026 exchange upto 15 days of delivery."
+    }
+  },
+  {
+    "id": "10",
+    "name": "Black T-shirt",
+    "slug": "black-tshirt",
+    "description": "Sample description text",
+    "thumb_url": "./assets/close-up-portrait-man-shirt-mockup_23-2149260951.jpg",
+    "large_thumb_url": "./assets/close-up-portrait-man-shirt-mockup_23-2149260951.jpg",
+    "price": 5900,
+    "currency": "USD",
+    "price_formatted": "$59",
+    "from_price": "",
+    "to_price": "",
+    "from_price_formatted": "",
+    "to_price_formatted": "",
+    "category": ["menswear", "bestsellers", "tshirt"],
+    "sale": false,
+    "variants": {
+      "size": [
+        {
+          "name": "s",
+          "link": ""
+        },
+        {
+          "name": "m",
+          "link": ""
+        },
+        {
+          "name": "l",
+          "link": ""
+        },
+        {
+          "name": "xl",
+          "link": ""
+        }
+      ],
+      "material": [
+        {
+          "name": "cotton"
+        }
+      ]
+    },
+    "availability": true,
+    "images": [
+      "./assets/sensual-portrait-handsome-muscular-young-african-american-model-slim-gray-jeans-plain-black-cotton-t-shirt-standing-white-wall_346278-1018.jpg",
+      "./assets/dreamy-athletic-relaxed-black-young-man-wearing-torn-jeans-unlabeled-black-t-shirt-sitting-small-stool-white-wall_346278-1009.jpg",
+      "./assets/full-body-portrait-young-african-american-model-unlabeled-black-cotton-t-shirt-jeans-sitting-black-chair-with-white-walls_346278-1012.jpg",
+      "./assets/smiling-athletic-young-african-american-man-blank-black-cotton-t-shirt-jeans-sitting-white-wall_346278-1019.jpg",
+      "./assets/moving-playful-athletic-black-model-with-afro-wearing-blank-black-t-shirt-grey-skinny-jeans-white-wall_346278-1030.jpg"
+    ],
+    "info": {
+      "material": "Cotton",
+      "care": "Machine Wash",
+      "return_policy": "Easy returns \u0026 exchange upto 15 days of delivery."
+    },
+    "original_price": ""
+  }
+]
